@@ -11,7 +11,7 @@ export const Button = (className = "", size = "default", children) => {
     const classes = `${baseClasses} ${sizeClasses[size]} ${className}`;
   
     return (
-        <button>
+        <button className={classes}>
             <span className="relative flex items-center justify-center gap-2">
                 {children}
             </span>
