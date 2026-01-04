@@ -4,7 +4,7 @@ const experiences = [
         role: "Full Stack Developer",
         company: "DevHouse",
         description: "Developed and maintained web applications using React and Node.js. Collaborated with cross-functional teams to deliver high-quality software solutions.",
-        technologies: ["JavaScript", "React", "Node.js", "Express", "MongoDB"],
+        technologies: ["JavaScript", "HTML", "CSS", "Materialize", "Firebase"],
         current: false,
     },
     {
