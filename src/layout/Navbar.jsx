@@ -17,7 +17,7 @@ export const Navbar = () => {
         const handleScroll = () => {
             setIsScrolled(window.scrollY > 50);
         }
-        
+
         window.addEventListener("scroll", handleScroll);
         
         return () => {
@@ -62,12 +62,13 @@ export const Navbar = () => {
                 <a 
                     href={link.href} 
                     key={index} 
+                    onClick={() => setIsMobileMenuOpen(false)}
                     className="text-lg text-muted-foreground hover:text-foreground py-2"
                     >
                     {link.label}
                 </a>
             ))}
-            <Button size="sm">Contact Me</Button>
+            <Button onClick={() => setIsMobileMenuOpen(false)} size="sm">Contact Me</Button>
             </div>
         </div>
         )}
