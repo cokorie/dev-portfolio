@@ -46,26 +46,29 @@ export const About = () => {
 
                         <div className="space-y-4 text-muted-foreground animate-fade-in animation-delay-200">
                             <p>
-                                I'm Chijioke Okorie, a passionate Full Stack Developer with a knack for crafting efficient and scalable web applications.
-                                With a strong foundation in both front-end and back-end technologies, I thrive on turning complex problems into elegant solutions.
-                                My journey in tech has been fueled by a relentless curiosity and a commitment to continuous learning.
+                                I'm Chijioke Okorie, and I'm a full stack developer with an awareness for building functional and seamless web applications.
+                                I have experience and knowledge in both front-end and back-end development, and I look to use that in helping clients in improving their businesses.
+                                I continue to learn and apply all that I retain, and would like for my experience to positively affect others and do the same.
                             </p>
                             <p>
-                                Beyond coding, I enjoy collaborating with diverse teams, sharing knowledge, and contributing to open-source projects.
-                                When I'm not immersed in code, you can find me exploring the latest tech trends or indulging in a good book.
-                                Let's connect and build something amazing together!
+                                Beyond coding, I have an appetite for continuous learning and application of knowledge in all things. 
+                                Applying that trait to my projects and past work have allowed for me to help others in their efforts of improvement, 
+                                as long as create relationships with people from so many walks of life. I appreciate the life, chances and community 
+                                we have and enjoy displaying in everything that I do!
                             </p>
                             <p>
-                                Here are a few highlights of my skills and expertise:
-                                HTML, CSS, JavaScript, React, Node.js, Express, MongoDB, Redux, TypeScript,
-                                Tailwind CSS, Next.js, RESTful APIs, GraphQL, Docker, AWS, Git, Python, Django.
+                                Here are a few highlights of my skills and expertise: 
+                                JavaScript, HTML, CSS, EJS, Python, Node, Express, jQuery, 
+                                Django, React, MongoDB, Mongoose, PostgreSQL, Firebase, Bootstrap, 
+                                Materialize, TailwindCSS, Human Resources, Communication and Customer Service
+
                             </p>
                         </div>
 
                         <div className="glass rounded-2xl p-6 glow-border animate-fade-in animation-delay-300">
                             <p className="text-lg font-medium italic text-foreground">
                                 My mission is to leverage technology to create impactful solutions that drive progress and innovation.
-                                Whether it's developing a user-friendly interface or architecting a robust backend system, I am dedicated to
+                                Whether it's developing a user-friendly interface or architecting a robust backend system, I'm dedicated to
                                 delivering high-quality results that exceed expectations.
                             </p>
                         </div>
