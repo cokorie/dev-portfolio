@@ -98,14 +98,12 @@ export const Hero = () => {
                                     Contact Me <ArrowRight className="w-5 h-5" />
                                 </Button>
                             </a>
-                            <div onClick={ () => window.open(require('/chijioke_resume.pdf'), '_none')}>
                             <a href="/chijioke_resume.pdf" download="chijioke_resume.pdf" target="_blank" rel="noopener noreferrer">
                                 <AnimatedBorderButton>
                                     <Download className="w-5 h-5" />
                                     Download Resume
                                 </AnimatedBorderButton>
                             </a>
-                            </div>
                         </div>
 
                         {/* Social Media */}
